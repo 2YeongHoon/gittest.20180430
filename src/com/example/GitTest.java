@@ -8,5 +8,4 @@ public class GitTest {
 			System.out.println("아 개 시 끄 러 워");
 			System.out.println("팀장 작업");
 	}
-
 }
